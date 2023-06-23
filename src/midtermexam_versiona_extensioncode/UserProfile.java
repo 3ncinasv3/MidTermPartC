@@ -4,6 +4,11 @@
  * and open the template in the editor.
  */
 package midtermexam_versiona_extensioncode;
+/* comment
+    that 
+    is 
+    long
+*/
 
 /**
  * The user profile for the OnlineVids system. The user has a userID
@@ -13,6 +18,9 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+// Adding comments
+// Adding comments
+// Comment
 public class UserProfile 
 {
     
